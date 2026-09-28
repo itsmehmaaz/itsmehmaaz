@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a 2nd year Computer Science & Engineering (CSE) student passionate about learning and contributing to open source projects!
+I'm a 3rd year Computer Science & Engineering student passionate about learning and contributing to open source projects!
 
 ### About Me
 - 🔭 I'm currently learning web development and contributing to open source projects
